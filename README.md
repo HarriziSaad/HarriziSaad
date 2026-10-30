@@ -1,16 +1,54 @@
-## Hi there 👋
-
-<!--
-**HarriziSaad/HarriziSaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td valign="top"><pre>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⡀⢀⠄⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡠⠰⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⢀⠀⡄⡠⡠⡢⡰⡠⡢⡠⡠⡀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⡯⡁⠀⢀⢀⣢⣪⢖⣽⣺⡳⣝⢮⡳⡝⡮⣪⢪⢪⢪⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣞⢘⠀⡰⣰⢳⣳⢽⣻⣞⡾⡽⡽⣕⢵⢝⢮⢺⡸⡱⡱⡱⡱⡠⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣗⡌⢔⣝⢮⡳⡯⣯⣷⣳⢯⣯⣻⣺⢽⢝⢵⢳⢹⠸⠪⡣⣫⢆⠂⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢿⢜⢸⡸⣪⢯⣻⢽⢞⠯⡻⡺⣺⢍⠇⠍⠂⠁⡀⡈⡄⡡⡡⠁⠢⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⢹⡇⣵⣝⠪⡈⡂⡁⡠⢈⢐⠘⠘⠁⢂⠂⠊⡈⠈⡈⡈⠊⠦⠅⡄⠁⢀⢄⡀⠀⠀
+⠀⠀⠀⠐⣯⠈⠰⡐⡎⠎⠊⡐⡀⡢⠡⣸⡳⡄⢡⡑⡌⢌⢢⢑⠕⡅⡃⡧⡸⢼⢕⢅⠀⠀
+⠀⠀⠀⢀⠪⣩⡘⡌⡔⢜⢜⢔⢔⡼⡁⣾⡽⣝⢤⠑⠝⠜⠜⢜⢘⢌⡜⡮⡫⢪⢯⢊⠆⠀
+⠀⠀⢰⡹⣵⢺⣧⠱⢕⠧⡳⢕⢋⡪⣜⣯⣟⣮⢷⢝⡜⡜⢕⢗⢽⡺⡪⣏⡯⣢⠣⡧⠁⠀
+⠀⠀⠸⡸⣽⡓⣿⣝⣞⢾⣼⡺⣕⢵⡓⡓⡝⢮⢣⠡⠣⡣⠣⡃⢇⠯⣹⡪⣞⠴⡕⡕⠀⠀
+⠀⠀⠀⠹⣺⡪⣿⣞⢮⣻⡪⡇⡗⢗⠕⠡⢃⡑⡅⡅⠥⠤⢥⢐⠀⡣⡣⣏⢮⢣⢏⠀⠀⠀
+⠀⠀⠀⠀⠑⣗⡧⣿⡳⣕⢇⠣⡁⠦⢓⢍⢣⢃⢣⢡⢍⢎⢄⡆⡎⡎⡞⡮⡇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠐⠯⠻⣿⣜⢵⡱⡌⡦⣇⢧⣫⢪⢣⢣⢳⢳⡹⡜⣜⢜⢵⡹⠂⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠱⣗⢧⢳⢍⢯⡪⣗⢕⢕⢰⠰⡱⡱⡕⡝⣜⢕⡕⣇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠐⣟⢮⡪⡳⡣⡯⡺⡪⡣⡣⢃⠃⠕⢑⠹⢸⢸⡸⣪⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢐⡯⡮⡳⡹⡸⠨⠈⠐⠐⠈⡀⠐⠀⠀⠀⡕⣕⢝⢼⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⠊⢀⣟⢮⣫⢮⡪⡢⠀⠀⠀⠀⠀⠀⢀⢀⢦⢳⡱⣝⢺⡀⠂⠀⠀⠀⠀
+⠀⠀⠀⣀⡄⡖⠇⠀⢰⢱⢯⣺⢵⣝⢮⡣⣇⢎⢆⢎⢜⢜⢎⡗⣇⢧⢳⢕⠇⠀⡁⠔⢀⠀
+⠴⠈⠍⠁⠀⠀⠄⠁⡀⢏⣗⣗⡯⣞⣗⡽⣪⢧⡣⡣⣓⢭⡣⣏⢮⢪⡺⢜⠀⠐⠀⠀⠀⠀
+⠀⠀⡀⠠⠀⠀⠂⠠⠀⡀⠓⢗⡽⣳⡳⣝⡗⣗⢽⡸⡜⡼⡸⡜⡜⢎⠊⠀⠀⠈⠀⡀⠀⠀
+⠀⢀⠀⠠⠀⠁⠀⡀⠀⠠⠀⠂⠉⠚⢮⢳⢝⢎⢎⢎⢎⢪⠪⠪⠈⠀⠀⡀⠈⠀⠀⠀⠀⠀
+⠀⠀⡀⠀⡈⠀⠂⠀⠠⠀⠀⠂⠀⠁⠀⡁⠑⢑⢕⢱⢸⢰⡁⠁⠀⠁⠀⠀⠀⠀⠀⡀⠀⠀</pre></td>
+<td valign="top"><pre>saad@harrizi ---------------------------------------------
+&#32;
+Role: ............. PhD Researcher
+Domains: .......... Computational Biochemistry
+                    Bioinformatics &amp; Systems Biology
+&#32;
+- Specialties --------------------------------------------
+Focus: ............ ABC Transporters &amp; Drug Resistance
+                    Cellular Stress &amp; Genome Constraints
+Methods: .......... Causal ML / MD / Docking / DFT
+                    Protein Disorder / Dynamical Models
+&#32;
+- Articles / Research Topics -----------------------------
+BULMA: ............ Causal Chemogenomics
+Pdr5: ............. Quantum Chemistry &amp; Drug Transport
+&#32;
+- Skills -------------------------------------------------
+Code: ............. Python / R / Bash
+Tools: ............ GROMACS / PyMOL / PyTorch / EconML
+&#32;
+- Contact &amp; Socials --------------------------------------
+Email.Personal: ... saadharrizi0@gmail.com
+Email.Academic: ... saad.harrizi-etu@etu.univh2c.ma
+ResearchGate: ..... Saad Harrizi
+Discord: .......... _rugal_</pre></td>
+</tr>
+</table>
